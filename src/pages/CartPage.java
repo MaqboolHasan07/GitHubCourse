@@ -2,5 +2,5 @@ package pages;
 
 public class CartPage {
 
-	dsadsasdsa
+	System.out.println("Java");
 }
